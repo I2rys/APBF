@@ -3,7 +3,6 @@
 <h4 align="center">Simple API parameter & body fuzzer kinda</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/APBF/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/APBF?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/APBF"><img src="https://bettercodehub.com/edge/badge/I2rys/APBF?branch=main"></a>
 	<a href="https://github.com/I2rys/APBF/issues"><img src="https://img.shields.io/github/issues/I2rys/APBF.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
